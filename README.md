@@ -33,17 +33,22 @@
 </h3> 
 
 <h3>🔧 Soluções Utilizadas das Tecnologias</h3>
-
-* HTML semantico ajudando até mesmo em sua busca no Google e facilitando o entendimento de leitores de acessibilidade.<br>
-* Css : Framework do boostrap para agilizar na criação do estilos da pagina.
-* Fonte propria do google
-* background linear-gradient
-* Animação , sombrar para dar aquele efeito e animação no elemento.
-* display flex , grid para alinhar melhor os elementos da tela
-* JS  DOM para preview da imagem na tela de contato e utilizar dos eventos do JS.
-* Local storage para guardar os dados do formulario
-* AXIOS para utilizar o método POST para utilizar uma API externa e cria os dados da tela de contato.
-* Deploy utilizei a VERCEL.
+<dl>
+	<dt>HTML</dt>
+		<dd>semantico ajudando até mesmo em sua busca no Google e facilitando o entendimento de leitores de acessibilidade.</dd>
+	<dt>CSS</dt>
+		<dd>Framework do boostrap para agilizar na criação do estilos da pagina.</dd>
+		<dd>Fonte propria do google</dd>
+		<dd>background linear-gradient</dd>
+		<dd>Animação , sombras para dar aquele efeito e animação no elemento.</dd>
+		<dd>display flex , grid para alinhar melhor os elementos da tela</dd>
+	<dt>JavaScript</dt>
+		<dd>DOM para preview da imagem na tela de contato e utilizar dos eventos do JS.</dd>
+		<dd>Local storage para guardar os dados do formulario</dd>
+		<dd>AXIOS para utilizar o método POST para utilizar uma API externa e cria os dados da tela de contato.</dd>
+	<dt>Deploy</dt>
+		<dd>VERCEL</dd>	
+</dl>
 
 Caso Queiram acessar o site <a href="https://planet-pallets.vercel.app/">AQUI</a>
 
